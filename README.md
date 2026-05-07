@@ -40,6 +40,5 @@ Thanks for stopping by, and I look forward to connecting with you soon!
 
 <a href="https://www.buymeacoffee.com/thanhnamnguyen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 
-### Dev Quote
-
+### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
